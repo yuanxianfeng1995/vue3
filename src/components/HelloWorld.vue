@@ -6,7 +6,7 @@
 import { ref, defineComponent } from "vue";
 
 export default defineComponent({
-  name: "HelloWorld",
+  name: "HelloWorld12s",
   props: {
     msg: {
       type: String,
